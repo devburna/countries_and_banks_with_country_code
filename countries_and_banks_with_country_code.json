@@ -2021,36 +2021,234 @@
   {
     name: "Ghana",
     banks: [
-      { name: "Access Bank plc" },
-      { name: "African Investment Bank" },
-      { name: "Agricultural Development Bank of Ghana" },
-      { name: "AmalBank" },
-      { name: "Bank of Baroda" },
-      { name: "Banque Sahelo-Saharienne pour l'Investissement et le Commerce" },
-      { name: "Barclays Bank" },
-      { name: "CAL Bank" },
-      { name: "Ecobank Ghana" },
-      { name: "Energy Bank" },
-      { name: "Fidelity Bank Ghana" },
-      { name: "Ghana Commercial Bank" },
-      { name: "Guaranty Trust Bank" },
-      { name: "Home Finance Company" },
-      { name: "Intercontinental Bank" },
-      { name: "International Commercial Bank" },
-      { name: "National Investment Bank" },
-      { name: "Prudential Bank Limited" },
-      { name: "Societe Generale – Social Security Bank" },
-      { name: "Stanbic Bank" },
-      { name: "Standard Chartered Bank" },
-      { name: "The Trust Bank" },
-      { name: "UniBank" },
-      { name: "United Bank for Africa" },
-      { name: "UT Bank" },
-      { name: "Zenith Bank" },
-      { name: "The Royal Bank" },
-      { name: "Ghana Commercial Bank" },
-      { name: "Bank of Baroda (Ghana) Ltd." },
-      { name: "Barclays Bank Ghana" },
+      {
+        name: "MTN Mobile Money",
+      },
+      {
+        name: "Vodafone Mobile Money",
+      },
+      {
+        name: "Airtel-Tigo Mobile Money",
+      },
+      {
+        name: "The Hongkong and Shanghai Banking Corporation Limited",
+      },
+      {
+        name: "Giro Elszamolasforgalmi Zrt.",
+      },
+      {
+        name: "First National Bank Ghana Limited",
+      },
+      {
+        name: "OMNIBANK GHANA LIMITED",
+      },
+      {
+        name: "GHL Bank Ltd",
+      },
+      {
+        name: "Consolidated Bank Ghana Limited",
+      },
+      {
+        name: "GH PREPAID",
+      },
+      {
+        name: " VISA",
+      },
+      {
+        name: "Standard Chartered Bk Ghana Int",
+      },
+      {
+        name: "UNITED BANK FOR AFRICA (GHANA) LTD",
+      },
+      {
+        name: "Partner Banka d.d.",
+      },
+      {
+        name: "Agricultural Development Bank Limited",
+      },
+      {
+        name: "Bank of Ghana",
+      },
+      {
+        name: "Barclays Bank of Ghana Limited",
+      },
+      {
+        name: "GCB Bank Limited",
+      },
+      {
+        name: "Universal Merchant Bank",
+      },
+      {
+        name: "National Investment Bank Ltd",
+      },
+      {
+        name: "Societe Generale Ghana Limited",
+      },
+      {
+        name: "Standard Chartered Bank Ghana Limited",
+      },
+      {
+        name: "Societe Generale Haitienne de Banque S.A. (Sogebank)",
+      },
+      {
+        name: "BNG Bank N V",
+      },
+      {
+        name: "Cal Bank Limited",
+      },
+      {
+        name: "DBS Group Holdings Ltd",
+      },
+      {
+        name: "Financial Brokerage Group (Fbg)",
+      },
+      {
+        name: "Arb Apex Bank Limited",
+      },
+      {
+        name: "Stock Exchange Of Hong Kong Ltd, The",
+      },
+      {
+        name: "Guaranty Trust Bank (Ghana) Ltd",
+      },
+      {
+        name: "Fidelity Bank Ghana Ltd.",
+      },
+      {
+        name: "Banque Sahelo-Saharienne Pour LInvestissment et le Commerce (Ghana) Lt",
+      },
+      {
+        name: "Guaranty Trust Bank (UK) Limited",
+      },
+      {
+        name: "Bank of Baroda (Ghana) Limited",
+      },
+      {
+        name: "Gatehouse Bank Plc",
+      },
+      {
+        name: "Access Bank (Ghana) PLC",
+      },
+      {
+        name: "Noble Group Ltd",
+      },
+      {
+        name: "Ghazanfar Bank",
+      },
+      {
+        name: "Social Security And National Insurance Trust",
+      },
+      {
+        name: "Energy Bank Ghana Limited",
+      },
+      {
+        name: "Ghana Revenue Authority",
+      },
+      {
+        name: "Pacific Eagle Asset Management Ltd",
+      },
+      {
+        name: "Independent Petroleum Group",
+      },
+      {
+        name: "Controller And Accountant-GeneralS Department",
+      },
+      {
+        name: "Partners Group AG",
+      },
+      {
+        name: "Compass Global Holdings Pty Ltd",
+      },
+      {
+        name: "Global Exchange Centre Limited",
+      },
+      {
+        name: "Volta River Authority",
+      },
+      {
+        name: "Norma Group Holding",
+      },
+      {
+        name: "Tronox Global Holdings Pty Limited",
+      },
+      {
+        name: "Cqlt Saargummi Technologies SAR.l",
+      },
+      {
+        name: "Pigeon Corporation",
+      },
+      {
+        name: "Ping An Of China Asset Management (Hong Kong) Company Ltd",
+      },
+      {
+        name: "Gebr. Heinemann Se And Co.KG",
+      },
+      {
+        name: "Cgnpc Huasheng Investment Limited",
+      },
+      {
+        name: "Premium Bank Ghana Limited",
+      },
+      {
+        name: "G.H. Financials Ltd",
+      },
+      {
+        name: "Asahi Group Holdings, Ltd.",
+      },
+      {
+        name: "Heritage Bank Limited",
+      },
+      {
+        name: "Grabtaxi Holdings PTE LTD",
+      },
+      {
+        name: "Al Ghurair International Exchange",
+      },
+      {
+        name: "Dogan Sirketler Grubu Holding AS",
+      },
+      {
+        name: "GN Bank Limited",
+      },
+      {
+        name: "Banque Populaire de Rabat-Kenitra",
+      },
+      {
+        name: "Prudential Bank Ltd",
+      },
+      {
+        name: "First Atlantic Bank Ltd",
+      },
+      {
+        name: "FBN Bank (Ghana) Limited",
+      },
+      {
+        name: "Privredna banka Zagreb d.d.",
+      },
+      {
+        name: "Ghana International Bank plc",
+      },
+      {
+        name: "Republic Bank (Ghana) Ltd",
+      },
+      {
+        name: "Guaranty Trust Bank Kenya Limited",
+      },
+      {
+        name: "Stanbic Bank Ghana Limited",
+      },
+      {
+        name: "Bank of Africa - Ghana",
+      },
+      {
+        name: "ZENITH BANK (GHANA) LIMITED",
+      },
+      {
+        name: "FINANCIJSKA AGENCIJA",
+      },
+      {
+        name: "Ecobank Ghana (GH130100)",
+      },
     ],
     code: "GH",
   },
@@ -2930,56 +3128,114 @@
   {
     name: "Kenya",
     banks: [
-      { name: "ABC Bank (Kenya)" },
-      { name: "Bank of Africa (Kenya)" },
-      { name: "Bank of Baroda" },
-      { name: "Bank of India" },
-      { name: "Barclays Bank (Kenya)" },
-      { name: "CfC Stanbic Holdings" },
-      { name: "Chase Bank (Kenya)" },
-      { name: "Citibank" },
-      { name: "Commercial Bank of Africa" },
-      { name: "Consolidated Bank of Kenya" },
-      { name: "Cooperative Bank of Kenya" },
-      { name: "Credit Bank" },
-      { name: "Development Bank of Kenya" },
-      { name: "Diamond Trust Bank" },
-      { name: "Dubai Bank Kenya" },
-      { name: "Ecobank Transnational" },
-      { name: "Equatorial Commercial Bank" },
-      { name: "Equity Bank" },
-      { name: "Family Bank" },
-      { name: "Fidelity Commercial Bank Limited" },
-      { name: "First Community Bank" },
-      { name: "Giro Commercial Bank" },
-      { name: "Guaranty Trust Bank (Kenya)" },
-      { name: "Guardian Bank" },
-      { name: "Gulf African Bank" },
-      { name: "Bank AL Habib" },
-      { name: "Habib Bank AG Zurich" },
-      { name: "Housing Finance Company of Kenya" },
-      { name: "I&M Bank" },
-      { name: "Imperial Bank Kenya" },
-      { name: "Jamii Bora Bank" },
-      { name: "K-Rep Bank" },
-      { name: "Kenya Commercial Bank" },
-      { name: "Middle East Bank Kenya" },
-      { name: "National Bank of Kenya" },
-      { name: "NIC Bank" },
-      { name: "Oriental Commercial Bank" },
-      { name: "Paramount Universal Bank" },
-      { name: "Prime Bank (Kenya)" },
-      { name: "Standard Chartered Kenya" },
-      { name: "Trans National Bank Kenya" },
-      { name: "United Bank for Africa" },
-      { name: "Victoria Commercial Bank" },
-      { name: "Bank of China" },
-      { name: "Bank of Kigali" },
-      { name: "Central Bank of India" },
-      { name: "FirstRand Bank" },
-      { name: "HDFC Bank" },
-      { name: "Hong Kong and Shanghai Banking Corporation" },
-      { name: "Nedbank" },
+      {
+        name: "Kenya Commercial Bank Limited",
+      },
+      {
+        name: "Co-operative Bank of Kenya Limited",
+      },
+      {
+        name: "CFC Stanbic Bank Kenya Limited",
+      },
+      {
+        name: "NIC Bank Limited",
+      },
+      {
+        name: "Jamii Bora Bank",
+      },
+      {
+        name: "Housing Finance Bank",
+      },
+      {
+        name: "Oriental Commercial Bank Limited",
+      },
+      {
+        name: "Victoria Commercial Bank Limited",
+      },
+      {
+        name: "Commercial Bank of Africa Limited",
+      },
+      {
+        name: "Equatorial Commercial Bank Limited",
+      },
+      {
+        name: "Investments n Mortgages Bank Limited",
+      },
+      {
+        name: "Imperial Bank Limited",
+      },
+      {
+        name: "National Bank of Kenya Limited",
+      },
+      {
+        name: "Gulf African Bank Ltd",
+      },
+      {
+        name: "Credit Bank Limited",
+      },
+      {
+        name: "African Banking Corp. Bank Ltd",
+      },
+      {
+        name: "First Community Bank",
+      },
+      {
+        name: "Guardian Bank Limited",
+      },
+      {
+        name: "Prime Bank Limited",
+      },
+      {
+        name: "Dubai Bank Kenya Limited",
+      },
+      {
+        name: "Chase Bank Limited",
+      },
+      {
+        name: "Paramount Universal Bank Limited",
+      },
+      {
+        name: "Family Bank Ltd",
+      },
+      {
+        name: "Consolidated Bank of Kenya Limited",
+      },
+      {
+        name: "Middle East Bank Kenya Limited",
+      },
+      {
+        name: "Diamond Trust Bank Limited",
+      },
+      {
+        name: "Citibank N.A.",
+      },
+      {
+        name: "Trans-National Bank Limited",
+      },
+      {
+        name: "Equity Bank Limited",
+      },
+      {
+        name: "K-Rep Bank Limited",
+      },
+      {
+        name: "UBA Kenya Bank Ltd",
+      },
+      {
+        name: "Bank of  Africa Kenya Limited",
+      },
+      {
+        name: "ABSA Bank Kenya PLC",
+      },
+      {
+        name: "MPESA",
+      },
+      {
+        name: "Standard Chartered Bank Limited",
+      },
+      {
+        name: "Airtel Kenya",
+      },
     ],
     code: "KE",
   },
@@ -3766,34 +4022,195 @@
   {
     name: "Nigeria",
     banks: [
-      { name: "Access Bank – acquired Intercontinental Bank" },
-      { name: "Citibank" },
-      { name: "Diamond Bank" },
-      { name: "Ecobank Nigeria – acquired Oceanic Bank" },
-      { name: "Fidelity Bank Nigeria" },
-      { name: "First Bank of Nigeria" },
-      { name: "First City Monument Bank – acquired FinBank" },
-      { name: "Guaranty Trust Bank" },
       {
-        name: "Heritage Bank plc – acquired Enterprise Bank (formerly Spring Bank) ",
+        name: "Page MFBank",
       },
-      { name: "Keystone Bank Limited – formerly Bank PHB" },
-      { name: "Providus Bank plc " },
       {
-        name: "Skye Bank – acquired Mainstreet Bank Limited(formerly Afribank Nig Plc)",
+        name: "Stanbic Mobile Money",
       },
-      { name: "Stanbic IBTC Bank Nigeria Limited" },
-      { name: "Standard Chartered Bank" },
-      { name: "Sterling Bank – acquired Equitorial Trust Bank" },
-      { name: "Suntrust Bank Nigeria Limited" },
-      { name: "Union Bank of Nigeria" },
-      { name: "United Bank for Africa" },
-      { name: "Unity Bank plc" },
-      { name: "Wema Bank" },
-      { name: "Zenith Bank" },
-      { name: "Barclays Bank plc" },
-      { name: "Deutsche Bank" },
-      { name: "JP Morgan" },
+      {
+        name: "FortisMobile",
+      },
+      {
+        name: "TagPay",
+      },
+      {
+        name: "FBNMobile",
+      },
+      {
+        name: "First Bank of Nigeria",
+      },
+      {
+        name: "Sterling Mobile",
+      },
+      {
+        name: "Omoluabi Mortgage Bank",
+      },
+      {
+        name: "ReadyCash (Parkway)",
+      },
+      {
+        name: "Zenith Bank",
+      },
+      {
+        name: "Standard Chartered Bank",
+      },
+      {
+        name: "eTranzact",
+      },
+      {
+        name: "Fidelity Bank",
+      },
+      {
+        name: "CitiBank",
+      },
+      {
+        name: "Unity Bank",
+      },
+      {
+        name: "Access Money",
+      },
+      {
+        name: "Eartholeum",
+      },
+      {
+        name: "Hedonmark",
+      },
+      {
+        name: "MoneyBox",
+      },
+      {
+        name: "JAIZ Bank",
+      },
+      {
+        name: "Ecobank Plc",
+      },
+      {
+        name: "EcoMobile",
+      },
+      {
+        name: "Fidelity Mobile",
+      },
+      {
+        name: "TeasyMobile",
+      },
+      {
+        name: "NIP Virtual Bank",
+      },
+      {
+        name: "VTNetworks",
+      },
+      {
+        name: "Stanbic IBTC Bank",
+      },
+      {
+        name: "Fortis Microfinance Bank",
+      },
+      {
+        name: "PayAttitude Online",
+      },
+      {
+        name: "ZenithMobile",
+      },
+      {
+        name: "ChamsMobile",
+      },
+      {
+        name: "SafeTrust Mortgage Bank",
+      },
+      {
+        name: "Covenant Microfinance Bank",
+      },
+      {
+        name: "Imperial Homes Mortgage Bank",
+      },
+      {
+        name: "NPF MicroFinance Bank",
+      },
+      {
+        name: "Parralex",
+      },
+      {
+        name: "Wema Bank",
+      },
+      {
+        name: "Enterprise Bank",
+      },
+      {
+        name: "Diamond Bank",
+      },
+      {
+        name: "Paycom",
+      },
+      {
+        name: "SunTrust Bank",
+      },
+      {
+        name: "Cellulant",
+      },
+      {
+        name: "ASO Savings and & Loans",
+      },
+      {
+        name: "Heritage",
+      },
+      {
+        name: "Jubilee Life Mortgage Bank",
+      },
+      {
+        name: "GTBank Plc",
+      },
+      {
+        name: "Union Bank",
+      },
+      {
+        name: "Sterling Bank",
+      },
+      {
+        name: "Polaris Bank",
+      },
+      {
+        name: "Keystone Bank",
+      },
+      {
+        name: "Pagatech",
+      },
+      {
+        name: "Coronation Merchant Bank",
+      },
+      {
+        name: "FSDH",
+      },
+      {
+        name: "Mkudi",
+      },
+      {
+        name: "First City Monument Bank",
+      },
+      {
+        name: "FET",
+      },
+      {
+        name: "Trustbond",
+      },
+      {
+        name: "GTMobile",
+      },
+      {
+        name: "United Bank for Africa",
+      },
+      {
+        name: "Access Bank",
+      },
+      {
+        name: "TCF MFB",
+      },
+      {
+        name: "Test bank",
+      },
+      {
+        name: "Globus Bank",
+      },
     ],
     code: "NG",
   },
@@ -4593,41 +5010,15 @@
   {
     name: "South Africa",
     banks: [
-      { name: "African Bank Limited" },
-      { name: "Bidvest Bank" },
-      { name: "Capitec Bank" },
-      { name: "FirstRand Bank" },
-      { name: "Grindrod Bank" },
-      { name: "Imperial Bank South Africa" },
-      { name: "Investec" },
-      { name: "Nedbank" },
-      { name: "Sasfin Bank" },
-      { name: "Standard Bank" },
-      { name: "Teba Bank Limited" },
-      { name: "Absa Group" },
-      { name: "Habib Bank AG Zurich" },
-      { name: "HBL Pakistan" },
-      { name: "Bank of Baroda" },
-      { name: "Bank of China" },
-      { name: "Bank of Taiwan" },
-      { name: "Calyon" },
-      { name: "China Construction Bank Corporation" },
-      { name: "Citibank" },
-      { name: "Deutsche Bank" },
-      { name: "Hongkong and Shanghai Banking Corporation" },
-      { name: "JPMorgan Chase Bank" },
-      { name: "Royal Bank of Scotland" },
-      { name: "Societe Generale" },
       {
-        name: "South African Bank of Athens (99.79% subsidiary of National Bank of Greece)",
+        name: "First National Bank",
       },
-      { name: "Standard Chartered Bank" },
-      { name: "State Bank of India" },
-      { name: "Investec (Private Bank)" },
-      { name: "RMB Private Bank (Private Bank)" },
-      { name: "Nedbank Private Wealth (Private Bank)" },
-      { name: "Absa (Private Bank)" },
-      { name: "Standard Bank (Private Bank)" },
+      {
+        name: "Nedbank Limited",
+      },
+      {
+        name: "ABSA",
+      },
     ],
     code: "ZA",
   },
@@ -4893,64 +5284,201 @@
   {
     name: "Tanzania",
     banks: [
-      { name: "AccessBank Tanzania" },
-      { name: "Letshego Bank Tanzania" },
-      { name: "Akiba Commercial Bank" },
-      { name: "Amana Bank" },
-      { name: "Azania Bank" },
-      { name: "BancABC" },
-      { name: "Bank M" },
-      { name: "Bank of Africa Tanzania" },
-      { name: "Bank of Baroda Tanzania Limited" },
-      { name: "Bank of India (Tanzania)" },
-      { name: "Barclays Bank of Tanzania" },
-      { name: "Citibank" },
-      { name: "Commercial Bank of Africa (Tanzania)" },
-      { name: "CRDB Bank" },
-      { name: "DCB Commercial Bank" },
-      { name: "Diamond Trust Bank Tanzania" },
-      { name: "Ecobank" },
-      { name: "Equity Bank (Tanzania)" },
-      { name: "Exim Bank (Tanzania)" },
-      { name: "FINCA Microfinance Bank(Tanzania)" },
-      { name: "First National Bank of Tanzania" },
-      { name: "FBME Bank" },
-      { name: "Guaranty Trust Bank (Tanzania) Limited" },
-      { name: "Habib African Bank" },
-      { name: "I&M Bank (Tanzania)" },
-      { name: "International Commercial Bank" },
-      { name: "Kenya Commercial Bank" },
-      { name: "Mkombozi Commercial Bank" },
-      { name: "National Bank of Commerce (Tanzania)" },
-      { name: "National Microfinance Bank" },
-      { name: "NIC Bank Tanzania" },
-      { name: "People's Bank of Zanzibar" },
-      { name: "Stanbic Bank Tanzania Limited" },
-      { name: "Standard Chartered Bank" },
-      { name: "United Bank for Africa" },
-      { name: "UBL Bank Tanzania Limited" },
-      { name: "Mwalimu Commercial Bank" },
-      { name: "Twiga Bancorp Limited (In receivership)" },
-      { name: "TIB cORporate Bank" },
-      { name: "First Housing Company Tanzania Limited" },
-      { name: "Community banks" },
-      { name: "Covenant Bank for Women Tanzania Limited" },
-      { name: "Efatha Bank Limited" },
-      { name: "Kagera Farmers' Cooperative Bank" },
-      { name: "Kilimanjaro Cooperative Bank" },
-      { name: "Maendeleo Bank Plc" },
-      { name: "Meru Community Bank Limited" },
-      { name: "Mufindi Comunity Bank Plc" },
-      { name: "Mwanga Rural Community Bank Limited" },
-      { name: "Njombe Community Bank Limited" },
-      { name: "Tandahimba Community Bank Limited" },
-      { name: "Uchumi Commercial Bank Limited" },
-      { name: "Microfinance banks" },
-      { name: "EFC Tanzania Microfinance Bank" },
-      { name: "Finca Microfinance Bank" },
-      { name: "Hakika Microfinance Bank" },
-      { name: "Tanzania Microfinance Bank" },
-      { name: "Yetu Microfinance" },
+      {
+        name: "TIB Corporate Bank Limited",
+      },
+      {
+        name: "Canara Bank (Tanzania) Limited",
+      },
+      {
+        name: "Tanzania Agricultural Development Bank",
+      },
+      {
+        name: "FINCA Microfinance Bank Ltd",
+      },
+      {
+        name: "Mwalimu Commercial Bank Plc",
+      },
+      {
+        name: "Guaranty Trust Bank (Tanzania) Limited",
+      },
+      {
+        name: "Yetu Microfinance Bank PLC",
+      },
+      {
+        name: "TZWALLET",
+      },
+      {
+        name: "Bank of Tanzania",
+      },
+      {
+        name: "CRDB Bank PLC",
+      },
+      {
+        name: "National Bank of Commerce Ltd.",
+      },
+      {
+        name: "TIB Development Bank Ltd",
+      },
+      {
+        name: "The People's Bank of Zanzibar Ltd.",
+      },
+      {
+        name: "TPB Bank Company Ltd",
+      },
+      {
+        name: "Crown Finance And Leasing Limited",
+      },
+      {
+        name: "Karadha Company Ltd",
+      },
+      {
+        name: "National Bureau De Change Limited",
+      },
+      {
+        name: "The African Banking Corporation of Tanzania Limited",
+      },
+      {
+        name: "Bank of Baroda (Tanzania) Ltd",
+      },
+      {
+        name: "Twiga Bancorp Limited",
+      },
+      {
+        name: "Bank M Tanzania Public Limited Company",
+      },
+      {
+        name: "Accessbank Tanzania Ltd",
+      },
+      {
+        name: "Bank Of India (Tanzania) Limited",
+      },
+      {
+        name: "Orbit Securites Co Ltd",
+      },
+      {
+        name: "United Bank For Africa (Tanzania) Limited",
+      },
+      {
+        name: "Mkombozi Commercial Bank Ltd",
+      },
+      {
+        name: "Tanzania Womens Bank Limited",
+      },
+      {
+        name: "First National Bank Tanzania Limited",
+      },
+      {
+        name: "Tanzania Revenue Authority",
+      },
+      {
+        name: "Tanzania Housing Bank",
+      },
+      {
+        name: "Amana Bank Limited",
+      },
+      {
+        name: "Equity Bank Tanzania Limited",
+      },
+      {
+        name: "Letshego Bank (T) Limited",
+      },
+      {
+        name: "SABMiller Tanzania",
+      },
+      {
+        name: "Covenant Bank For Women (Tanzania) Limited",
+      },
+      {
+        name: "Mwanga Community Bank Ltd",
+      },
+      {
+        name: "UBL Bank (Tanzania) Limited",
+      },
+      {
+        name: "Maendeleo Bank Ltd",
+      },
+      {
+        name: "Trust Bank (Tanzania) Limited",
+      },
+      {
+        name: "Dar Es Salaam Stock Exchange",
+      },
+      {
+        name: "China Commercial Bank Limited",
+      },
+      {
+        name: "Mucoba Bank Plc",
+      },
+      {
+        name: "First Housing Finance Tanzania Limited",
+      },
+      {
+        name: "Stanbic Bank Tanzania Ltd",
+      },
+      {
+        name: "National Microfinance Bank Ltd.",
+      },
+      {
+        name: "Citibank Tanzania Ltd.",
+      },
+      {
+        name: "Diamond Trust Bank Tanzania Limited",
+      },
+      {
+        name: "Kilimanjaro Cooperative Bank Limited",
+      },
+      {
+        name: "KCB Bank Tanzania Ltd",
+      },
+      {
+        name: "International Commercial Bank (Tanzania) Limited",
+      },
+      {
+        name: "Habib African Bank Ltd.",
+      },
+      {
+        name: "Barclays Bank (Tanzania) Ltd.",
+      },
+      {
+        name: "Akiba Commercial Bank PLC",
+      },
+      {
+        name: "Exim Bank (Tanzania) Limited",
+      },
+      {
+        name: "I and M Bank Tanzania Limited",
+      },
+      {
+        name: "DCB Commercial Bank Plc",
+      },
+      {
+        name: "Azania Bank Limited",
+      },
+      {
+        name: "NIC Bank Tanzania Limited",
+      },
+      {
+        name: "Uchumi Commercial Bank",
+      },
+      {
+        name: "Commercial Bank of Africa (Tanzania) Limited",
+      },
+      {
+        name: "Bank of Africa Tanzania Limited",
+      },
+      {
+        name: "Standard Chartered Bank Tanzania Ltd.",
+      },
+      {
+        name: "Ecobank Tanzania",
+      },
+      {
+        name: "Airtel Tanzania",
+      },
+      {
+        name: "Mobile Money",
+      },
     ],
     code: "TZ",
   },
@@ -5121,29 +5649,261 @@
   {
     name: "Uganda",
     banks: [
-      { name: "ABC Bank (Uganda)" },
-      { name: "Bank of Africa (Uganda)" },
-      { name: "Bank of Baroda (Uganda)" },
-      { name: "Barclays Bank of Uganda" },
-      { name: "Cairo International Bank" },
-      { name: "Centenary Bank" },
-      { name: "Citibank Uganda" },
-      { name: "Crane Bank" },
-      { name: "DFCU Bank" },
-      { name: "Diamond Trust Bank (Uganda) Limited" },
-      { name: "Ecobank (Uganda)" },
-      { name: "Equity Bank Uganda Limited" },
-      { name: "Exim Bank (Uganda)" },
-      { name: "Fina Bank (Uganda)" },
-      { name: "Housing Finance Bank" },
-      { name: "KCB Bank Uganda Limited" },
-      { name: "Orient Bank" },
-      { name: "Stanbic Bank Uganda Limited" },
-      { name: "Standard Chartered Uganda" },
-      { name: "Tropical Bank" },
-      { name: "United Bank for Africa (Uganda)" },
-      { name: "Standard Chartered" },
-      { name: "Barclays" },
+      {
+        name: "Mobile Money",
+      },
+      {
+        name: "Finance Trust Bank Limited",
+      },
+      {
+        name: "MTN",
+      },
+      {
+        name: "ECOCBIBI",
+      },
+      {
+        name: "Bank of Uganda",
+      },
+      {
+        name: "Barclays Bank of Uganda Limited",
+      },
+      {
+        name: "East African Development Bank",
+      },
+      {
+        name: "Tropical Bank Limited",
+      },
+      {
+        name: "Stanbic Bank Uganda Limited",
+      },
+      {
+        name: "Standard Chartered Bank Uganda Limited",
+      },
+      {
+        name: "Bank of Baroda (Uganda) Limited",
+      },
+      {
+        name: "Diamond Trust Bank Uganda Limited",
+      },
+      {
+        name: "Centenary Rural Development Bank Limited",
+      },
+      {
+        name: "Bank of Africa Uganda Ltd",
+      },
+      {
+        name: "DFCU Bank Ltd.",
+      },
+      {
+        name: "Post Bank (Uganda) Ltd.",
+      },
+      {
+        name: "The Uganda Institute of Bankers",
+      },
+      {
+        name: "International Credit Bank Ltd.",
+      },
+      {
+        name: "Trans Africa Bank Ltd",
+      },
+      {
+        name: "Engiplan Consultants",
+      },
+      {
+        name: "ABC Capital Bank (Uganda) Limited",
+      },
+      {
+        name: "Housing Finance Bank Limited",
+      },
+      {
+        name: "KCB Bank Uganda Limited",
+      },
+      {
+        name: "United Bank for Africa Uganda Limited",
+      },
+      {
+        name: "Guaranty Trust Bank Uganda Limited",
+      },
+      {
+        name: "Mbea Brokerage Services (U) Limited",
+      },
+      {
+        name: "Equity Bank Uganda Limited",
+      },
+      {
+        name: "Co-Operative Bank Ltd.,the",
+      },
+      {
+        name: "Trust Bank (Uganda) Limited",
+      },
+      {
+        name: "Exim Bank (Uganda) Limited",
+      },
+      {
+        name: "Equity Stock Brokers (U) Ltd",
+      },
+      {
+        name: "Bank of India (Uganda) Limited",
+      },
+      {
+        name: "NC Bank Uganda Limited",
+      },
+      {
+        name: "Sabmiller Uganda",
+      },
+      {
+        name: "Crested Stocks And Securities Limited",
+      },
+      {
+        name: "British American Tobacco Uganda Ltd",
+      },
+      {
+        name: "Alt Xchange Limited.",
+      },
+      {
+        name: "Top Finance Bank Limited",
+      },
+      {
+        name: "Crane Bank Ltd",
+      },
+      {
+        name: "Orient Bank Limited",
+      },
+      {
+        name: "Commercial Bank of Africa Uganda Limited",
+      },
+      {
+        name: "Cairo International Bank Limited",
+      },
+      {
+        name: "Citibank Uganda Limited",
+      },
+      {
+        name: "Mercantile Credit Bank Ltd",
+      },
+      {
+        name: "UGANDA SECURITIES EXCHANGE",
+      },
+      {
+        name: "ECOBANK (U) LTD",
+      },
+      {
+        name: "BARCLAYS BANK OF UGANDA  LIMITED",
+      },
+      {
+        name: "BANK OF BARODA",
+      },
+      {
+        name: "ABC CAPITAL BANK LIMITED",
+      },
+      {
+        name: "Bank of India",
+      },
+      {
+        name: "STANBIC BANK LIMITED",
+      },
+      {
+        name: "DFCU Bank",
+      },
+      {
+        name: "FINCA UGANDA LIMITED 1",
+      },
+      {
+        name: "TROPICAL BANK OF AFRICA",
+      },
+      {
+        name: "STANDARD CHARTERED BANK",
+      },
+      {
+        name: "ORIENT BANK",
+      },
+      {
+        name: "BANK OF AFRICA",
+      },
+      {
+        name: "NATIONAL BANK OF COMMERCE",
+      },
+      {
+        name: "CENTENARY RURAL DEVELOPMENT",
+      },
+      {
+        name: "CRANE BANK",
+      },
+      {
+        name: "CAIRO INTERNATIONAL BANK",
+      },
+      {
+        name: "DIAMOND TRUST BANK",
+      },
+      {
+        name: "CITIBANK N.A.",
+      },
+      {
+        name: "HOUSING FINANCE BANK",
+      },
+      {
+        name: "GLOBAL TRUST BANK",
+      },
+      {
+        name: "KCB BANK UGANDA LTD",
+      },
+      {
+        name: "UNITED BANK FOR AFRICA UG LTD",
+      },
+      {
+        name: "GUARANTEE TRUST BANK",
+      },
+      {
+        name: "EQUITY BANK",
+      },
+      {
+        name: "ABC CAPITAL BANK LTD",
+      },
+      {
+        name: "EXIM BANK",
+      },
+      {
+        name: "NC BANK UGANDA LIMITED",
+      },
+      {
+        name: "COMMERCIAL BANK OF AFRICA UGANDA LIMITED",
+      },
+      {
+        name: "FINANCE TRUST BANK",
+      },
+      {
+        name: "BANK OF UGANDA",
+      },
+      {
+        name: "FINCA UGANDA LIMITED",
+      },
+      {
+        name: "POST BANK UGANDA LIMITED",
+      },
+      {
+        name: "PRIDE MICROFINANCE LIMITED",
+      },
+      {
+        name: "OPPORTUNITY BANK UGNADA LIMITED",
+      },
+      {
+        name: "Top Finance Bank Limited",
+      },
+      {
+        name: "BANK OF UGANDA 1",
+      },
+      {
+        name: "COMMERZBANK - EUR",
+      },
+      {
+        name: "COMMERZBANK - GBP",
+      },
+      {
+        name: "COMMERZBANK - USD",
+      },
+      {
+        name: "NEDBANK",
+      },
     ],
     code: "UG",
   },
@@ -5601,4 +6361,4 @@
     ],
     code: "ZM",
   },
-];
+]
